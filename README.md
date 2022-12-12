@@ -6,7 +6,9 @@ Could be used alone but was designed to use with [gtts](https://pypi.org/project
 to make a pause between sounds
 
 The class constructor has only one argument - the silence time in seconds 
-(a float is available)   
+(a float is available). The timing accuracy is no worse than 0.024 seconds
+(this is the length of one frame) which seems to be sufficient for audio applications      
+
 
 ### Usage Example
 

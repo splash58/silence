@@ -1,6 +1,6 @@
 # silence
 
-Generation audio frames and saving *silent* mp3 files
+Generation audio frames and saving **silent** mp3 files
 
 Could be used alone but was designed to use with [gtts](https://pypi.org/project/gTTS/)
 to make a pause between sounds
